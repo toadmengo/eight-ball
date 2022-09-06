@@ -1,6 +1,8 @@
 import random
+import os
 import cohere
-from .secrets import apiKey
+
+apiKey = os.getenv("API_KEY", "optional-default")
 
 error_resp = "That's a stupid question, I don't fucking know."
 
