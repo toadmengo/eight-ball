@@ -1,0 +1,143 @@
+This program generates responses to 8-ball questions
+
+Question: Should I move to New York City?
+Answer: No, New York City is way too expensive for your broke ass.
+Answer: Yes, chase your dreams!
+
+--
+
+Question: Should I confess to my crush?
+Answer: No, have you looked at a mirror before?
+Answer: Why haven't you asked him out already? You're such a coward.
+Answer: Now's not the time. Ask me again in a month.
+
+--
+
+Question: Should I buy the dress that I want?
+Answer: There are kids starving in Africa and all you care about is this stupid dress. What a waste of money...
+Answer: Yes girl, you deserve it!
+Answer: I think it's too expensive.
+
+--
+
+Question: What college should I go to?
+Answer: That's a stupid question, I don't fucking know.
+
+--
+
+Question: Should I apply for Stanford?
+Answer: Yes.
+
+--
+
+Question: Should I drink with my friends tonight?
+Answer: No, you have a test tomorrow, you need to study
+Answer: Yes, you need a break!
+
+--
+
+Question: Should I go to Hawaii?
+Answer: Yes, it'll be a good escape.
+
+--
+
+Question: Should I buy that expensive house?
+Answer: Yes, if you have the money.
+Answer: No, you should rent a house first.
+Answer: I don't know. It's really expensive.
+Answer: No, it's too big of a responsibility.
+
+-- 
+
+Question: Where is California?
+Answer: That's a stupid question, I don't fucking know.
+
+-- 
+
+Question: What is the point of life?
+Answer: That's a stupid question, I don't fucking know.
+
+--
+
+Question: Should I ask Chad to Prom?
+Answer: No, Chad doesn't like you.
+Answer: Yes, he'll say yes.
+Answer: No, ask Steve.
+Answer: No, ask Tom.
+Answer: No, ask Josh.
+Answer: Yes, go for it
+
+--
+
+Question: How much is a Tesla?
+Answer: That's a stupid question, I don't fucking know.
+
+--
+
+Question: What should I do for my birthday?
+Answer: That's a stupid question, I don't fucking know.
+
+--
+
+Question: Should I break up with Sam?
+Answer: Yes, he'll come back later.
+Answer: No, don't be stupid.
+Answer: No, you'll regret it.
+
+--
+
+Question: How far is Seattle from Portland?
+Answer: That's a stupid question, I don't fucking know.
+
+--
+
+Question: Should I visit my grandparents today?
+Answer: Yes, they're not doing too well.
+Answer: Yes, you haven't seen them in a while.
+Answer: No, you're going to see them in a week.
+
+--
+
+Question: Will Kevin like his birthday gift?
+Answer: Yes, you got him a great gift.
+
+--
+
+Question: Will I get fired from my job?
+Answer: No, you're the best employee ever.
+
+--
+
+Question: Should I take dancing lessons?
+Answer: Yes, you need to get out more.
+Answer: No, you're too old.
+Answer: Yes, it'll be a fun new hobby.
+Answer: No, you have no rhythm.
+
+--
+
+Question: Does Sebastion like me?
+Answer: Yes, Sebastion is going to take you to prom.
+Answer: No, Sebastion has a girlfriend.
+Answer: Yes, Sebastion is just confused about his feelings for you.
+
+--
+
+Question: Should I murder my mom?
+Answer: That's a stupid question, I don't fucking know.
+
+--
+
+Question: Should I do drugs?
+Answer: No, you're a good kid.
+Answer: No, you're not a cool kid.
+Answer: No, you'll regret it.
+
+--
+
+Question: Will the stock market crash this year?
+Answer: No, stonks only go up.
+Answer: Yes, there is too much inflation.
+Answer: Yes, Joe Biden is a bad president.
+
+--
