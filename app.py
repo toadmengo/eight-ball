@@ -3,7 +3,7 @@ from flask_restful import Api, Resource, reqparse
 # from flask_cors import CORS #comment this on deployment
 from api.Api import APIHandler
 
-app = Flask(__name__, static_folder='ReactApp/build')
+app = Flask(__name__, static_folder='react/build')
 # CORS(app) #comment this on deployment
 api = Api(app)
 
