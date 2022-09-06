@@ -9,6 +9,7 @@ api = Api(app)
 
 @app.route("/", defaults={'path':''})
 def serve(path):
-    return send_from_directory(app.static_folder,'index.html')
+    print(app.send_static_file('index.html'))
+    return app.send_static_file('index.html')
 
 api.add_resource(APIHandler, '/ask')
