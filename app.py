@@ -10,8 +10,6 @@ api = Api(app)
 @app.route("/", defaults={'path':''})
 def serve(path):
     print("Log1")
-    print(send_from_directory(app.static_folder, 'index.html'))
-    print("Log2")
     return send_from_directory(app.static_folder, 'index.html')
 
 api.add_resource(APIHandler, '/ask')
