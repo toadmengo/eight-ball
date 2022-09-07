@@ -118,12 +118,12 @@ button:hover {
   text-align: center;
   padding: 15px;
   transition: all 1s;
-  font-size: 12px;
+  font-size: 10px;
   font-family: fantasy;
 }
 
 .eight {
-  font-size: 70px;
+  font-size: 45px;
 }
       
 .ball-shadow {
