@@ -48,6 +48,11 @@ body {
   align-items: center;
 }
 
+.header-container {
+  text-align: center;
+  font-family: "Bookman"
+}
+
 .question-container {
   width: 300px;
 }
@@ -97,7 +102,6 @@ button:hover {
   justify-content: center;
   position: relative;
   margin: 0 auto;
-  animation: bounce 2s ease-in infinite;
 }
 
   
@@ -116,6 +120,7 @@ button:hover {
   padding: 15px;
   transition: all 1s;
   font-size: 12px;
+  font-family: fantasy;
 }
 
 .eight {
@@ -128,6 +133,13 @@ button:hover {
   border-radius: 50%;
   background-color: black;
   opacity: 0.4;
+}
+
+.bouncing {
+  animation: bounce 2s ease-in infinite;
+}
+
+.scale {
   animation: scale 2s ease-in;
   animation-iteration-count: infinite;
 }

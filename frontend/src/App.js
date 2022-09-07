@@ -6,6 +6,10 @@ import React, { useEffect, useState } from 'react';
 const url = 'https://magic-eight-ball.herokuapp.com/ask?question='
 
 function MagicEightBall() {
+
+  useEffect(() => {
+    document.title = 'Magic eight ball';
+  });
   
   const [userInput, setUserInput] = useState('');
   const [answer, setAnswer] = useState('');
@@ -28,15 +32,20 @@ function MagicEightBall() {
 
   return (
     <div>
-      <div className={`ball-container ${loading ? "shaking" : ""}`}>
-        <div className="ball-black-outer">
+      <div className='header-container'>
+        <h1>Magic Eight Ball</h1>
+        <p>Please don't take this seriously...</p>
+      </div>
+      <br/>
+      <div className={`ball-container`}>
+        <div className={`ball-black-outer ${loading ? "shaking" : "bouncing"}`}>
           <div className="ball-white-inner">
             <div>
               {body}
             </div>
           </div>
         </div>
-        <div className="ball-shadow"></div>
+        <div className={`ball-shadow ${loading ? "" : "scale"}`}></div>
       </div>
 
       <div className="question-container">
