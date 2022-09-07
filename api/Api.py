@@ -1,13 +1,11 @@
-from flask_restful import Api, Resource, reqparse
+from flask_restful import Api, Resource, reqparse, request
 from .request.cohere import predict
 
 class APIHandler(Resource):
     def get(self):
         print("Log2")
-        parser = reqparse.RequestParser()
-        parser.add_argument('question')
-        args = parser.parse_args()
-        question = args["question"]
+        question = request.args.get("question")
+        print("Log3")
         r = predict(question) 
         return {
             'resultStatus': 'SUCCESS',
