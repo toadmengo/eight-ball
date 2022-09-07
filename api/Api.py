@@ -3,6 +3,7 @@ from .request.cohere import predict
 
 class APIHandler(Resource):
     def get(self):
+        print("Log2")
         parser = reqparse.RequestParser()
         parser.add_argument('question')
         args = parser.parse_args()
